@@ -19,6 +19,7 @@ namespace TheDepths.NPCs.Chasme;
 [AutoloadBossHead] // For loading "ChasmeHeart_Head_Boss" automatically
 public class ChasmeHeart : ModNPC
 {
+	//TODO add drops also
     /// <summary>
     /// list of body part NPC indexes in this order: Head, Body, Right Hand, Left Hand, Right Hand Expert, Left Hand Expert
     /// </summary>
